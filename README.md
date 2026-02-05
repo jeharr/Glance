@@ -1,3 +1,1 @@
-Glance App, for taking a glance at your past life.
-
-g
+Collage App, for taking a glance at your past life.
